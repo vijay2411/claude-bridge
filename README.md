@@ -11,7 +11,7 @@
 📦 **Install in one line:**
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/Mugyen/claude-bridge/main/claude-bridge | bash
+curl -fsSL https://raw.githubusercontent.com/Mugyen/claude-bridge/main/site/install.sh | bash
 ```
 
 Lands the bridge in `~/.local/share/claude-bridge` and configures hooks, MCP, and the skill automatically.

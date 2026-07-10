@@ -2,7 +2,7 @@
 # claude-bridge bootstrap installer.
 #
 # One-line install:
-#   curl -fsSL https://mugyen.github.io/claude-bridge/install.sh | bash
+#   curl -fsSL https://raw.githubusercontent.com/Mugyen/claude-bridge/main/site/install.sh | bash
 #
 # Clones the repo to ~/.local/share/claude-bridge (override with
 # CLAUDE_BRIDGE_HOME), then runs the in-repo `claude-bridge install`.

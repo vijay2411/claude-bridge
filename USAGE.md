@@ -55,7 +55,7 @@ Pick one of these. They produce the same result — the bridge lands in `~/.loca
 
 ```bash
 # Option A — curl (no clone needed)
-curl -fsSL https://raw.githubusercontent.com/Mugyen/claude-bridge/main/claude-bridge | bash
+curl -fsSL https://raw.githubusercontent.com/Mugyen/claude-bridge/main/site/install.sh | bash
 
 # Option B — clone manually (preferred if you want to hack on it)
 git clone git@github.com:Mugyen/claude-bridge.git
